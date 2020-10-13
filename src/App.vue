@@ -1,6 +1,7 @@
 <template>
   <div id="app">
-    xixi
+    <!-- 一级路由视图 -->
+    <router-view></router-view>
   </div>
 </template>
 
